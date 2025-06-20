@@ -26,5 +26,5 @@ All datasets are hypothetically stored in **Google Drive** (cloud storage).
 graph TD
     A[📥 Extract] --> B[🛠 Transform]
     B --> C[📤 Load]
-    C --> D[📊 Report via Tableau]
+    
 
