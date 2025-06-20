@@ -50,10 +50,7 @@ graph TD
 
 ---
 
-## 📈 Reporting Layer
 
-- Data visualized using **Tableau**.
-- Easy steps to connect Tableau with Google Drive to fetch the final dataset.
 
 ---
 
@@ -62,11 +59,12 @@ graph TD
 - 🐍 **Python (Google Colab)**
 - 📦 `pandas`, `lxml`, `json` for data processing
 - ☁️ **Google Drive** (Cloud Storage)
-- 📊 **Tableau** for dashboards and insights
+
 
 ---
 
-## 📊 How to Visualize in Tableau
+## **FURTHER IMPROVEMENTS**
+### 📊 How to Visualize in Tableau **FURTHER IMPROVEMENTS**
 
 1. Open Tableau → Connect → To a Server → **Google Drive**
 2. Sign in to your Google Account
